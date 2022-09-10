@@ -1,0 +1,685 @@
+.container{
+	width:100vw;
+}
+.contact-cont{
+	width:90vw;
+	height:auto;
+	margin:auto;
+	padding:70px 0px;
+}
+.contact-head,.address,.add-mail{
+	text-align:center;
+}
+.contact-head h2{
+	font-size:30px;
+	font-weight:700;
+	position:relative;
+	display:inline-block;
+}
+.contact-head h2::after{
+	content:"";
+	position:absolute;
+	margin:auto;
+	bottom:-10px;
+	left:30px;
+	width:40%;
+	border:2px solid black;
+}
+.contact-head p{
+	font-size:20px;
+	padding:25px 0px 15px 0px;
+}
+.contact-foot{
+	margin-top:25px;
+}
+.address{
+	background-color:#fff;
+	margin:15px 0px;
+	padding:30px 20px;
+}
+.address i{
+	font-size:30px;
+	color:#3874d6;
+}
+.address h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.address p{
+	font-size:18px;
+}
+.add-mail{
+	background-color:#fff;
+	margin:15px 0px;
+	padding:30px 20px;
+}
+.add-mail h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.add-mail p{
+	font-size:18px;
+	line-height:30px;
+}
+.add-mail i{
+	font-size:30px;
+	color:#3874d6;
+}
+.form-name{
+	display:flex;
+	flex-direction:column;
+}
+.form-name input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-sub input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-text textarea{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.foot-right form button{
+    padding: 10px 25px;
+    border-radius: 10px;
+	background-color:#3874d6;
+	font-size:15px;
+	color:#fff;
+	border:1px solid #3874d6;
+}
+.foot-right{
+	margin-top:30px;
+	background-color:#fff;
+	padding:40px 20px;
+}
+@media(min-width:576px){
+	.container{
+	width:100vw;
+}
+.contact-cont{
+	width:90vw;
+	height:auto;
+	margin:auto;
+	padding:70px 0px;
+}
+.contact-head,.address,.add-mail{
+	text-align:center;
+}
+.contact-head h2{
+	font-size:30px;
+	font-weight:700;
+	position:relative;
+	display:inline-block;
+}
+.contact-head h2::after{
+	content:"";
+	position:absolute;
+	margin:auto;
+	bottom:-10px;
+	left:30px;
+	width:40%;
+	border:2px solid black;
+}
+.contact-head p{
+	font-size:20px;
+	padding:25px 0px 15px 0px;
+}
+.contact-foot{
+	margin-top:25px;
+}
+.address{
+	background-color:#fff;
+	margin:15px 0px;
+	padding:30px 20px;
+}
+.address i{
+	font-size:30px;
+	color:#3874d6;
+}
+.address h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.address p{
+	font-size:18px;
+}
+.add-mail{
+	background-color:#fff;
+	margin:15px 0px;
+	padding:30px 20px;
+}
+.add-mail h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.add-mail p{
+	font-size:18px;
+	line-height:30px;
+}
+.add-mail i{
+	font-size:30px;
+	color:#3874d6;
+}
+.form-name{
+	display:flex;
+	flex-direction:column;
+}
+.form-name input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-sub input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-text textarea{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.foot-right form button{
+    padding: 10px 25px;
+    border-radius: 10px;
+	background-color:#3874d6;
+	font-size:15px;
+	color:#fff;
+	border:1px solid #3874d6;
+}
+.foot-right{
+	margin-top:30px;
+	background-color:#fff;
+	padding:40px 20px;
+}
+}
+@media(min-width:768px){
+	.container{
+	width:100vw;
+}
+.contact-cont{
+	width:90vw;
+	height:auto;
+	margin:auto;
+	padding:70px 0px;
+}
+.contact-head,.address,.add-mail{
+	text-align:center;
+}
+.contact-head h2{
+	font-size:30px;
+	font-weight:700;
+	position:relative;
+	display:inline-block;
+}
+.contact-head h2::after{
+	content:"";
+	position:absolute;
+	margin:auto;
+	bottom:-10px;
+	left:30px;
+	width:40%;
+	border:2px solid black;
+}
+.contact-head p{
+	font-size:20px;
+	padding:25px 0px 15px 0px;
+}
+.contact-foot{
+	margin-top:25px;
+}
+.address{
+	background-color:#fff;
+	margin:15px 0px;
+	padding:30px 20px;
+}
+.address i{
+	font-size:30px;
+	color:#3874d6;
+}
+.address h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.address p{
+	font-size:18px;
+}
+.add-mail{
+	background-color:#fff;
+	margin:15px 0px;
+	padding:30px 20px;
+}
+.add-mail h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.add-mail p{
+	font-size:18px;
+	line-height:30px;
+}
+.add-mail i{
+	font-size:30px;
+	color:#3874d6;
+}
+.form-name{
+	display:flex;
+	flex-direction:column;
+}
+.form-name input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-sub input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-text textarea{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.foot-right form button{
+    padding: 10px 25px;
+    border-radius: 10px;
+	background-color:#3874d6;
+	font-size:15px;
+	color:#fff;
+	border:1px solid #3874d6;
+}
+.foot-right{
+	margin-top:30px;
+	background-color:#fff;
+	padding:40px 20px;
+}
+}
+@media(min-width:992px){
+	.container{
+	width:100vw;
+}
+.contact-cont{
+	width:90vw;
+	height:auto;
+	margin:auto;
+	padding:70px 0px;
+}
+.contact-head,.address,.add-mail{
+	text-align:center;
+}
+.contact-head h2{
+	font-size:30px;
+	font-weight:700;
+	position:relative;
+	display:inline-block;
+}
+.contact-head h2::after{
+	content:"";
+	position:absolute;
+	margin:auto;
+	bottom:-10px;
+	left:30px;
+	width:40%;
+	border:2px solid black;
+}
+.contact-head p{
+	font-size:20px;
+	padding:25px 0px 15px 0px;
+}
+.contact-foot{
+	margin-top:25px;
+	display:flex;
+	justify-content:space-between;
+}
+.foot-left{
+	padding:18px ;
+	width:50%;
+	display:flex;
+	flex-direction:column;
+}
+.foot-right{
+	padding:25px;
+	background-color:#fff;
+	width:50%;
+}
+.address-bot{
+	display:flex;
+	justify-content:space-between;
+}
+.address{
+	background-color:#fff;
+	width:100%;
+
+}
+.address i{
+	font-size:30px;
+	color:#3874d6;
+}
+.address h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.address p{
+	font-size:18px;
+}
+.add-mail{
+	background-color:#fff;
+	width:48%;
+	padding:20px 0px;
+}
+.add-mail h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.add-mail p{
+	font-size:18px;
+	line-height:30px;
+}
+.add-mail i{
+	font-size:30px;
+	color:#3874d6;
+}
+.form-name{
+	display:flex;
+	flex-direction:column;
+}
+.form-name input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-sub input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-text textarea{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.foot-right form button{
+    padding: 10px 25px;
+    border-radius: 10px;
+	background-color:#3874d6;
+	font-size:15px;
+	color:#fff;
+	border:1px solid #3874d6;
+}
+}
+@media(min-width:1200px){
+    .container{
+	width:100vw;
+}
+.contact-cont{
+	width:90vw;
+	height:auto;
+	margin:auto;
+	padding:70px 0px;
+}
+.contact-head,.address,.add-mail{
+	text-align:center;
+}
+.contact-head h2{
+	font-size:40px;
+	font-weight:700;
+	position:relative;
+	display:inline-block;
+}
+.contact-head h2::after{
+	content:"";
+	position:absolute;
+	margin:auto;
+	bottom:-10px;
+	left:30px;
+	width:40%;
+	border:2px solid black;
+}
+.contact-head p{
+	font-size:20px;
+	padding:25px 0px 15px 0px;
+}
+.contact-foot{
+	margin-top:25px;
+	display:flex;
+	justify-content:space-between;
+}
+.foot-left{
+	padding:18px ;
+	width:50%;
+	display:flex;
+	flex-direction:column;
+}
+.foot-right{
+	padding:25px;
+	background-color:#fff;
+	width:50%;
+}
+.address-bot{
+	display:flex;
+	justify-content:space-between;
+}
+.address{
+	background-color:#fff;
+	width:100%;
+
+}
+.address i{
+	font-size:30px;
+	color:#3874d6;
+}
+.address h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.address p{
+	font-size:18px;
+}
+.add-mail{
+	background-color:#fff;
+	width:48%;
+	padding:20px 0px;
+}
+.add-mail h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.add-mail p{
+	font-size:18px;
+	line-height:30px;
+}
+.add-mail i{
+	font-size:30px;
+	color:#3874d6;
+}
+.form-name{
+	display:flex;
+	flex-direction:column;
+}
+.form-name input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-sub input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.form-text textarea{
+	padding:10px;
+	margin:15px;
+	width:90%;
+	border:none;
+	outline:1px solid #d5d7db;
+	border-radius:6px;
+}
+.foot-right form button{
+    padding: 10px 25px;
+    border-radius: 10px;
+	background-color:#3874d6;
+	font-size:15px;
+	color:#fff;
+	border:1px solid #3874d6;
+}
+}
+@media(min-width:1400px){
+	.container{
+	width:100vw;
+}
+.contact-cont{
+	width:90vw;
+	height:auto;
+	margin:auto;
+	padding:70px 0px;
+}
+.contact-head,.address,.add-mail{
+	text-align:center;
+}
+.contact-head h2{
+	font-size:40px;
+	font-weight:700;
+	position:relative;
+	display:inline-block;
+}
+.contact-head h2::after{
+	content:"";
+	position:absolute;
+	margin:auto;
+	bottom:-10px;
+	left:30px;
+	width:40%;
+	border:2px solid black;
+}
+.contact-head p{
+	font-size:20px;
+	padding:25px 0px 15px 0px;
+}
+.contact-foot{
+	margin-top:25px;
+	display:flex;
+	justify-content:space-between;
+}
+.foot-left{
+	padding:18px ;
+	width:50%;
+	display:flex;
+	flex-direction:column;
+}
+.foot-right{
+	padding:25px;
+	background-color:#fff;
+	width:50%;
+}
+.address-bot{
+	display:flex;
+	justify-content:space-between;
+}
+.address{
+	background-color:#fff;
+	width:100%;
+
+}
+.address i{
+	font-size:30px;
+	color:#3874d6;
+}
+.address h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.address p{
+	font-size:18px;
+}
+.add-mail{
+	background-color:#fff;
+	width:48%;
+	padding:20px 0px;
+}
+.add-mail h4{
+	font-size:25px;
+	padding:20px 0px;
+}
+.add-mail p{
+	font-size:18px;
+	line-height:30px;
+}
+.add-mail i{
+	font-size:30px;
+	color:#3874d6;
+}
+.form-name{
+	display:flex;
+	flex-direction:column;
+}
+.form-name input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+}
+.form-sub input{
+	padding:10px;
+	margin:15px;
+	width:90%;
+}
+.form-text textarea{
+	padding:10px;
+	margin:15px;
+	width:90%;
+}
+.foot-right form button{
+    padding: 10px 25px;
+    border-radius: 10px;
+	background-color:#3874d6;
+	font-size:15px;
+	color:#fff;
+	border:1px solid #3874d6;
+}
+}
