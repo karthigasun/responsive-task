@@ -1,0 +1,439 @@
+.container{
+	width:100%;
+	height:auto;
+}
+.team-cont{
+	margin:auto;
+	width:90%;
+	padding:70px 0px;
+}
+.team-head{
+	text-align:center;
+	position:relative;
+}
+.team-head span{
+	font-size:36px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	opacity:12%;
+	font-weight:700;
+}
+.team-head h3{
+	font-size:30px;
+	padding:18px;
+	z-index:99;
+}
+.team-head p{
+	font-size:15px;
+	padding:0px 12px 15px 12px;
+}
+.team-card{
+	background-color:#fff;
+	padding:18px;
+	box-shadow: 2px 2px 10px #7a7b7d;
+	margin:30px 10px;
+}
+.team-img{
+	background-color:#fff;
+}
+.team-img img{
+	width:100%;
+}
+.team-details{
+	text-align:center;
+	padding:15px;
+}
+.team-details h4{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+.team-details h5{
+	font-size:15px;
+	font-weight:100;
+	color:#575959;
+}
+.team-details p{
+	font-size:15px;
+	font-weight:100;
+	padding:16px 20px;
+	color:#575959;
+}
+.team-icon{
+	text-align:center;
+}
+.team-icon i{
+	margin:7px;
+	font-size:20px;
+	color:#575959;
+}
+@media(min-width:576px){
+	.container{
+	width:100%;
+	height:auto;
+}
+	.team-cont{
+	margin:auto;
+	width:90%;
+	padding:70px 0px;
+}
+	.team-head{
+	text-align:center;
+	position:relative;
+}
+.team-head span{
+	font-size:36px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	opacity:12%;
+	font-weight:700;
+}
+.team-head h3{
+	font-size:30px;
+	padding:18px;
+	z-index:99;
+}
+.team-head p{
+	font-size:15px;
+	padding:0px 12px 15px 12px;
+}
+.team-card{
+	background-color:#fff;
+	padding:18px;
+	box-shadow: 2px 2px 10px #7a7b7d;
+	margin:30px 10px;
+}
+.team-img{
+	background-color:#fff;
+}
+.team-img img{
+	width:100%;
+}
+.team-details{
+	text-align:center;
+	padding:15px;
+}
+.team-details h4{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+.team-details h5{
+	font-size:15px;
+	font-weight:100;
+	color:#575959;
+}
+.team-details p{
+	font-size:15px;
+	font-weight:100;
+	padding:16px 20px;
+	color:#575959;
+}
+.team-icon{
+	text-align:center;
+}
+.team-icon i{
+	margin:7px;
+	font-size:20px;
+	color:#575959;
+}
+}
+@media(min-width:768px){
+	.team-head{
+	text-align:center;
+	position:relative;
+}
+.team-head span{
+	font-size:36px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	opacity:12%;
+	font-weight:700;
+}
+.team-head h3{
+	font-size:30px;
+	padding:18px;
+	z-index:99;
+}
+.team-head p{
+	font-size:15px;
+	padding:0px 12px 15px 12px;
+}
+.team-card{
+	background-color:#fff;
+	padding:18px;
+	box-shadow: 2px 2px 10px #7a7b7d;
+	margin:30px 10px;
+}
+.team-img{
+	background-color:#fff;
+}
+.team-img img{
+	width:100%;
+}
+.team-details{
+	text-align:center;
+	padding:15px;
+}
+.team-details h4{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+.team-details h5{
+	font-size:15px;
+	font-weight:100;
+	color:#575959;
+}
+.team-details p{
+	font-size:15px;
+	font-weight:100;
+	padding:16px 20px;
+	color:#575959;
+}
+.team-icon{
+	text-align:center;
+}
+.team-icon i{
+	margin:7px;
+	font-size:20px;
+	color:#575959;
+}
+}
+@media(min-width:992px){
+	.container{
+	width:100%;
+	height:auto;
+}
+	.team-cont{
+	margin:auto;
+	width:90%;
+	padding:70px 0px;
+}
+	.team-head{
+	text-align:center;
+	position:relative;
+}
+.team-head span{
+	font-size:46px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	opacity:12%;
+	font-weight:700;
+}
+.team-head h3{
+	font-size:40px;
+	padding:18px;
+	z-index:99;
+}
+.team-head p{
+	font-size:15px;
+	padding:0px 12px 15px 12px;
+}
+.team-foot{
+	display:flex;
+	justify-content:space-between;
+}
+.team-card{
+	background-color:#fff;
+	padding:18px;
+	box-shadow: 2px 2px 10px #7a7b7d;
+	margin:30px 10px;
+}
+.team-img{
+	background-color:#fff;
+}
+.team-img img{
+	width:100%;
+}
+.team-details{
+	text-align:center;
+	padding:15px;
+}
+.team-details h4{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+.team-details h5{
+	font-size:15px;
+	font-weight:100;
+	color:#575959;
+}
+.team-details p{
+	font-size:15px;
+	font-weight:100;
+	padding:16px 20px;
+	color:#575959;
+}
+.team-icon{
+	text-align:center;
+}
+.team-icon i{
+	margin:7px;
+	font-size:20px;
+	color:#575959;
+}
+}
+@media(min-width:1200px){
+	.container{
+	width:100%;
+	height:auto;
+}
+	.team-cont{
+	margin:auto;
+	width:90%;
+	padding:70px 0px;
+}
+	.team-head{
+	text-align:center;
+	position:relative;
+}
+.team-head span{
+	font-size:46px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	opacity:12%;
+	font-weight:700;
+}
+.team-head h3{
+	font-size:40px;
+	padding:18px;
+	z-index:99;
+}
+.team-head p{
+	font-size:15px;
+	padding:0px 12px 15px 12px;
+}
+.team-foot{
+	display:flex;
+	justify-content:space-between;
+}
+.team-card{
+	background-color:#fff;
+	padding:18px;
+	box-shadow: 2px 2px 10px #7a7b7d;
+	margin:30px 10px;
+}
+.team-img{
+	background-color:#fff;
+}
+.team-img img{
+	width:100%;
+}
+.team-details{
+	text-align:center;
+	padding:15px;
+}
+.team-details h4{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+.team-details h5{
+	font-size:15px;
+	font-weight:100;
+	color:#575959;
+}
+.team-details p{
+	font-size:15px;
+	font-weight:100;
+	padding:16px 20px;
+	color:#575959;
+}
+.team-icon{
+	text-align:center;
+}
+.team-icon i{
+	margin:7px;
+	font-size:20px;
+	color:#575959;
+}
+}
+@media(min-width:1400px){
+	.container{
+	width:100%;
+	height:auto;
+}
+	.team-cont{
+	margin:auto;
+	width:90%;
+	padding:70px 0px;
+}
+	.team-head{
+	text-align:center;
+	position:relative;
+}
+.team-head span{
+	font-size:46px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	opacity:12%;
+	font-weight:700;
+}
+.team-head h3{
+	font-size:40px;
+	padding:18px;
+	z-index:99;
+}
+.team-head p{
+	font-size:15px;
+	padding:0px 12px 15px 12px;
+}
+.team-foot{
+	display:flex;
+	justify-content:space-between;
+}
+.team-card{
+	background-color:#fff;
+	padding:18px;
+	box-shadow: 2px 2px 10px #7a7b7d;
+	margin:30px 10px;
+}
+.team-img{
+	background-color:#fff;
+}
+.team-img img{
+	width:100%;
+}
+.team-details{
+	text-align:center;
+	padding:15px;
+}
+.team-details h4{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+.team-details h5{
+	font-size:15px;
+	font-weight:100;
+	color:#575959;
+}
+.team-details p{
+	font-size:15px;
+	font-weight:100;
+	padding:16px 20px;
+	color:#575959;
+}
+.team-icon{
+	text-align:center;
+}
+.team-icon i{
+	margin:7px;
+	font-size:20px;
+	color:#575959;
+}
+}
